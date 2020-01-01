@@ -1,0 +1,5 @@
+1| Initialiseert de class voor gebruik.
+2| 
+3| print()
+4| Printen informatie die alleen de schrijver wil kunnen zien.
+5| Zodat de door de schrijver gedefinieerde functies worden gebruikt en niet de std versies.

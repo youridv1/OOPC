@@ -1,0 +1,44 @@
+for ( int element : array ) {
+zodat hij nooit out of bounds gaat.
+
+for ( int & x : array )
+by reference om aanpassingen te kunnen doen
+
+std::array< soort, formaat > array; dus een vector met een vaste size.
+
+auto: zoek het type maar uit.
+
+kinder klasses erven alles van hun ouder mee
+
+class ball : public circle{ . . . };
+
+MICROCONTROLLERS
+
+system on a chip
+
+Due: 96 kb RAM, 512 kb ROM
+
+ARDUINO:
+
+Shields voor extra functies.
+
+PIOB->PIO_OER = 0x01 << 27; set output
+PIOB->PIOB_SODR; make high
+PIOB->PIOB_CODR; set low
+
+Volatile int: doe het, haal het niet weg compiler
+
+schakelaar naar de ground aansluiten
+
+
+
+De 74HC595 chip
+	schuif register
+	pin 1 linksboven
+	
+	SCLK clock
+	MOSI	master out slave in
+	MISO	master in slave out
+	SS	slave select
+
+	

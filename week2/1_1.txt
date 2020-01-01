@@ -1,0 +1,19 @@
+pianocat:
+	n_lives:	81
+	red:   		255
+	green:		70
+	blue:	 	30
+
+ceilingcat:
+	n_lives: 	9
+	red:	 	7
+	green:	 	4
+	blue:	 	5
+
+happycat:
+	n_lives: 	18
+	red:		118
+	green:    	7
+	blue:     	5
+
+

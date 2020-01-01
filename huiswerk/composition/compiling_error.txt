@@ -1,0 +1,6 @@
+In file included from /home/youri/v1oopc-examples/filledRectangle/rectangle.hpp:7,
+                 from /home/youri/v1oopc-examples/filledRectangle/main.cpp:5:
+/home/youri/v1oopc-examples/filledRectangle/line.hpp:7:10: fatal error: hwlib.hpp: No such file or directory
+ #include "hwlib.hpp"
+          ^~~~~~~~~~~
+compilation terminated.

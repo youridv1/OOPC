@@ -1,0 +1,16 @@
+OOPC LES 1
+
+Geen aanwezigheidsplicht
+half om half kletsen en werken
+practica worden tijdens begeleid practicum tijden gehouden
+schrijf je in op osiris
+
+c++ compilers zijn preciezer.
+
+class: private default struct
+
+classes in header files, functies in c++ source files
+
+github.com/wovo/installers
+
+

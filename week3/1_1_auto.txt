@@ -1,0 +1,11 @@
+a = klas
+b = array
+c = student
+d = (const) string
+e = integer
+f = mark
+g = course
+h = unint8_t
+i = (const) vector< char >
+
+<EOF>

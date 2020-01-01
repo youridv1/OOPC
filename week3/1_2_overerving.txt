@@ -1,0 +1,27 @@
+01 Nee, batmobiel is een car, en hierom wordt gevraagd door file.
+
+02 Nee, utr_amst is een intercity. Dit is een sub klasse van train en dus toegestaan.
+
+03 Ja, file vraagt om een car en ICE is een train. Ze hebben wel dezelfde super klasse, maar kunnen daardoor niet zomaar uitgewisseld 	 worden.
+
+04 Ja, ovchipkaart vraagt om een train en batmobiel is een car. Zie 03.
+
+05 Nee, travel vraagt om een vehicle en krijgt een sub klasse van vehicle.
+
+06 Nee, zie 05.
+
+07 Nee, hij vraagt om een intercity en krijgt er een.
+
+08 Ja, hij vraagt om een car maar krijgt een intercity. Intercity is geen sub klasse van car.
+
+09 Nee, hij vraagt om een train en krijgt een intercity. Dit is een sub klasse en mag dus.
+
+10 Ja, hij vraagt om een train en krijgt een car. Deze zijn niet verbonden als super en sub klasse.
+
+11 Ja, hij vraagt om een intercity en krijgt een car. Zie 10.
+
+12 Ja, als er een sub klasse gevraagd wordt, dan mag er geen super klasse gegeven worden.
+
+<EOF>
+
+

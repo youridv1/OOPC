@@ -1,0 +1,5 @@
+1. De class klaar maken voor gebruik door de variabelen te initialiseren.
+2. Parameters.
+3. Book en print.
+4. Zodat deze functies niet onbedoeld aangeroepen kunnen worden van buitenaf.
+5. Zodat de definitions toegewezen worden aan de declarations binnen de betreffende class book.
